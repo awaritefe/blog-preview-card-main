@@ -95,7 +95,7 @@ span {
   border-radius: 0.25rem;
   color: var(--gray950);
   font-size: 0.875rem;
-  font-weight: normal;
+  font-weight: bolder;
   padding: 0.25rem 0.75rem;
   width: fit-content;
 }
